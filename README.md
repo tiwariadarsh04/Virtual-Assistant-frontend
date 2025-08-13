@@ -5,7 +5,7 @@
 Nexora AI is a futuristic **voice-controlled virtual assistant** built with the **MERN Stack** and powered by **Google Gemini AI**.  
 It can answer your questions, play videos, and interact naturally — just like J.A.R.V.I.S from Iron Man 🚀.
 
-🔗 **Live Demo:** [Try Nexora AI here](https://virtual-assistant-frontend-ti6o.onrender.com)
+
 
 ---
 
@@ -30,11 +30,6 @@ It can answer your questions, play videos, and interact naturally — just like 
 
 ---
 
-## 📸 Screenshot
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Nexora+AI+Screenshot)
-
----
 
 ## 🚀 Installation & Setup (Local)
 
