@@ -1,12 +1,52 @@
-# React + Vite
+# 🤖 Nexora AI – Your Personal Virtual Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Nexora Banner](https://via.placeholder.com/1200x400?text=Nexora+AI+Virtual+Assistant)
 
-Currently, two official plugins are available:
+Nexora AI is a futuristic **voice-controlled virtual assistant** built with the **MERN Stack** and powered by **Google Gemini AI**.  
+It can answer your questions, play videos, and interact naturally — just like J.A.R.V.I.S from Iron Man 🚀.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Demo:** [Try Nexora AI here](https://virtual-assistant-frontend-ti6o.onrender.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🎙 **Voice Interaction** – Talk to Nexora AI using your microphone.
+- 🧠 **Gemini AI Powered** – Intelligent responses to your queries.
+- 🎥 **Video Playback** – Search and play videos via voice commands.
+- ⚡ **Real-Time Processing** – Fast response time with a smooth UI.
+- 🎨 **Futuristic Design** – Sleek UI inspired by sci-fi interfaces.
+- ☁ **Cloud Storage** – Uses Cloudinary for media storage.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js, CSS, Speech Recognition API  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**AI Model:** Google Gemini API  
+**Media Storage:** Cloudinary
+
+---
+
+## 📸 Screenshot
+
+![App Screenshot](https://via.placeholder.com/800x400?text=Nexora+AI+Screenshot)
+
+---
+
+## 🚀 Installation & Setup (Local)
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/nexora-ai.git
+cd nexora-ai
+
+# Install dependencies for backend
+cd backend
+npm install
+
+# Install dependencies for frontend
+cd ../frontend
+npm install
